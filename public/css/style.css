@@ -1,0 +1,31 @@
+body{
+    background-image: url("../img/390081.jpg"); 
+}
+
+#logo{
+    margin-right: 2%;
+    border-radius: 50%;
+}
+
+#formulario-pergunta{
+    margin-top: 8vh;
+}
+
+h1, h2, h3{
+    color: white;
+}
+
+#descricao{
+    color: white;
+    background-color: gray;
+    padding: 3%;
+    border-radius: 2%;
+}
+
+#respostas{
+    background-color: azure;
+}
+
+#perguntar{
+    color: black;
+}
